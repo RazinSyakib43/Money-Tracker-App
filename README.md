@@ -10,4 +10,5 @@ http://34.101.227.37:8000/ (Deployed with Compute Engine from Cloud SQL instance
 *) This project was previously deployed on the Google Cloud Platform (GCP), but it is currently inaccessible due to limitations on my GCP account that necessitated the removal of this project. However, this project can still be redeployed using a new GCP project.
 
 ## Screenshot
-![image](https://github.com/RazinSyakib43/Money-Tracker-App/assets/72656623/71595a7f-705f-4001-ac2b-a83b145a826c)
+![image](https://github.com/RazinSyakib43/Money-Tracker-App/assets/72656623/2d85f983-a716-4ab8-b6a0-64c2463ec369)
+
